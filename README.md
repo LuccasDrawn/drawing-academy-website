@@ -7,5 +7,5 @@ Desenhe com seus amigos em seu navegador!
 <a href="https://www.mysql.com/">●mySQL</a><br>
 <a href="https://www.npmjs.com/package/fs-extra">●Fs-Extra</a><br>
 </table>
-<d1 style="font-size:6px">Servidor do discord:</d1>
+> Servidor do discord:
 <a href="https://discord.gg/cEhYfM4">Clique Aqui</a>
